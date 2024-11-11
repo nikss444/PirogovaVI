@@ -1,6 +1,6 @@
 # PirogovaVI
  GIT - https://docs.google.com/document/d/1-Di-mpRs899cF0ZId43YDS7aZTJDGU3R4GGVstOE6Lk/edit?usp=drive_link  
-слова CeberСamp - https://docs.google.com/document/d/1tk7H2snXvQWJMzLtJ1Whxewp4s9kc0gawXpq5NQHyBY/edit?usp=sharing
+конспект по CeberСamp - https://docs.google.com/document/d/1tk7H2snXvQWJMzLtJ1Whxewp4s9kc0gawXpq5NQHyBY/edit?usp=sharing
 конспект по Stepk - https://docs.google.com/document/d/11rYIevvJr7z6o8FCJ67LcbTeXLyBkYi7ZFuEsK0g2PQ/edit?usp=sharing 
 конспект по Positive Technologies - https://docs.google.com/document/d/12nUJBqFn0yu7n1xVzwj-37pjCtWVlfqSgrZotrOpFWQ/edit?usp=sharing
 ОБЗР - https://docs.google.com/document/d/1-hq_RkklXKcy-81mnoKQrVUU1vM0S3C7nRYev3Ferms/edit?usp=sharing
