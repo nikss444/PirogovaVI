@@ -9,3 +9,4 @@ GIT - https://docs.google.com/document/d/1-Di-mpRs899cF0ZId43YDS7aZTJDGU3R4GGVst
 Лабораторная робота Liberoffice - https://docs.google.com/document/d/1CeWJjoKc66yfTMb74VtiaTH24j6TOy5cT_13NUwyf2Y/edit?usp=sharing
 ОС - https://docs.google.com/document/d/1-OeypQUQlGBYYNTsdpPTPgriOJXZFbCPI51Iawcm-pc/edit?usp=sharing
 Контрольная работа питон - https://docs.google.com/document/d/12z9wlXzAgy8I7gCgTuBa0VeDu_UTsoWoUqfXu_lFikY/edit?usp=sharing
+Конспект питон - https://docs.google.com/document/d/1Xqjv9Ax2AOK-TM1zPT4P9tO-SnpfjoaNfNiUpdh9T7U/edit?usp=sharing
