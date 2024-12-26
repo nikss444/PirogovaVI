@@ -12,3 +12,5 @@ GIT - https://docs.google.com/document/d/1-Di-mpRs899cF0ZId43YDS7aZTJDGU3R4GGVst
 Конспект питон - https://docs.google.com/document/d/1Xqjv9Ax2AOK-TM1zPT4P9tO-SnpfjoaNfNiUpdh9T7U/edit?usp=sharing
 Информатика лекция 09.12.2024 - https://docs.google.com/document/d/1o9Qbyw_2OmuphfWJrrwZQtP_ViGkbGfDszfPAbOZ7mE/edit?usp=sharing
 Проект Yougile - https://ru.yougile.com/board/bqauqxefz8s2
+информатика лекция 09.12.2024. - https://docs.google.com/document/d/1o9Qbyw_2OmuphfWJrrwZQtP_ViGkbGfDszfPAbOZ7mE/edit?usp=sharing
+конспект конференция - https://docs.google.com/document/d/1c4i69p-XzezVJhMZNnAAFwTC5s-C2jcTwKdPw8QYWOQ/edit?usp=sharing
